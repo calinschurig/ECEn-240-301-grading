@@ -8,8 +8,8 @@ Note: "-3" means subtract three points.
 ```1) Paste your Arduino code below:```
 - 0 points if they didn't submit any code. Email or message them requesting it.
   - -5 points if they send the code. 
-- -3 if they don’t have code for the range finder (check isCollision())
-- -3 if they don’t have the code for the servo (check their state machines)
+- -10 if they don’t have code for the range finder (check isCollision())
+- -10 if they don’t have the code for the servo (check their state machines)
 - -10 if the code obviously doesn't work. 
 
 ```2) Paste a link to your video below: (35 points)```
